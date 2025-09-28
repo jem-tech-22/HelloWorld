@@ -14,7 +14,6 @@ function greet() {
   }
   msgDiv.textContent = `Hello, ${name}! Welcome.`;
   msgDiv.style.color = '#00b894';
-  // Reset input fields after successful submission
   document.getElementById('name').value = '';
   document.getElementById('password').value = '';
 }
