@@ -35,7 +35,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // btn.addEventListener('mouseleave', function() {
   //   btn.classList.remove('moving');
-  //   btn.style.left = '';
-  //   btn.style.top = '';
-  // });
+
+  
 });
